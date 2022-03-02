@@ -1,3 +1,5 @@
+( Complete listing for FiveWords/Jurdle game)
+( This is transcribed via the EightyOne emulator, transcription errors may occur)
 
 CREATE FIVEWORDS 28785 ALLOT
 FIVEWORDS CONSTANT FIVEADDR ( addr - 15457)
